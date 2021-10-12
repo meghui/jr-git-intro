@@ -1,1 +1,1 @@
-Some text in second.md
+Some text in second.md showing diff from bugfix branch
